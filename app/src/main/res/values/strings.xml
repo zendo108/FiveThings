@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ID Safe</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_first_thing">1. Shred.</string>
+    <string name="first_thing_main_content">Many identity thieves steal personal information off of financial documents and paperwork they find in dumpsters or other places where these documents have been carelessly disposed. Protect yourself by shredding all documents that contain your personal information before discarding them. You can purchase a relatively inexpensive home shredder for $40 to $50.</string>
+
+    <string name="title_activity_second_thing">2. Keep your SSN safe.</string>
+    <string name="second_thing_main_content">An identity thief can use your Social Security Number to open a credit card, obtain government benefits or even get a job.  To prevent this from happening, don’t carry your SSN card with you in your wallet or purse, and only give out your SSN when absolutely necessary.
+
+Some companies use your Social Security Number to identify you when you call them, but in most cases, you can request that they use another piece of information instead. If you’re concerned that your SSN may be loose on the Internet, consider signing up for an identity theft protection service that monitors the web for your personal information and alerts you when you’re at risk.</string>
+
+    <string name="title_activity_third_thing">3. Monitor your credit report.</string>
+    <string name="third_thing_main_content">Checking your credit report regularly can give you early warning that your identity has been stolen. Clues that you may be a victim of identity theft include new credit card or loan accounts that you didn’t open, names and addresses that aren’t yours, and multiple credit inquiries from companies with which you’ve never applied or conducted business.
+
+To limit damage in the case that your identity is stolen, check your credit report on a regular basis. You can get a copy of your free credit report and score without having to enter your Social Security Number from Quizzle.com. Or if you prefer that someone else does the monitoring for you, sign up for a credit monitoring service that will alert you when important changes are posted to your credit profile. You can get monthly credit monitoring for as low as $3 per month.</string>
+
+    <string name="title_activity_fourth_thing">4. Be wary of unsolicited emails.</string>
+    <string name="fourth_thing_main_content">Some thieves use a tactic known as “phishing” to obtain your personal information. Phishing takes place when a thief pretends to be a company, financial institution or government body and sends you an email requesting your personal information.  Because the email appears “official,” many people willingly submit.
+
+To protect yourself from phishing, avoid replying to emails that ask for personal information, don’t click on links or download files in unsolicited emails, and use anti-spyware or anti-virus software. If an email asks that you call to update your account or verify information, use the phone number on the back of your financial statements or documents instead of the one in the email.</string>
+
+    <string name="title_activity_fifth_thing">5. Use more sophisticated passwords.</string>
+    <string name="fifth_thing_main_content">Using obvious passwords for your online accounts makes it much easier for eager identity thieves to steal your personal information. Avoid easy-to-guess passwords like your birth date, birth year, spouse’s name, mother’s maiden name or your Social Security Number. Instead, pick more sophisticated passwords that use a combination of uppercase and lowercase letters, numbers and characters.
+
+Also, if you must write your passwords down, keep them in a safe place in your home. Avoid carrying them around with you in your wallet or purse, or documenting them on your computer.
+
+There’s no way to completely protect against identity theft, but by increasing your level of awareness and being more vigilant with your personal information, you can minimize your risk.</string>
+
+</resources>
